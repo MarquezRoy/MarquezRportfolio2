@@ -11,5 +11,9 @@ div{
 .row{
     border-color: greenyellow
 }
+
+.col-xs-10{
+    border-color: orange
+}
  
  
