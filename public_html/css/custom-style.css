@@ -4,6 +4,7 @@ div{
     border-color: skyblue
 }
 
-.row{
-    
+body {
+    background-color: lightcyan;
+    background-repeat: repeat-x;
 }
